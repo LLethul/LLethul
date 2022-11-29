@@ -1,16 +1,19 @@
-### Hi there 👋
+<img src="https://github.com/LLethul/LLethul/blob/main/Untitled46_20221129150345.png?raw=true">
 
-<!--
-**LLethul/LLethul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>About me</h2>
+- Contact me at ix1x0x2@gmail.com
+- I'm a self-taught developer
+- i like cats, alot.
 
-Here are some ideas to get you started:
+<h2> Ask me about: </h2>
+- Roblox [LuaU, Exploits, Developing]
+- JS/TS, C#, Java, HTML/CSS, Lua/LuaU/GLua
+- Computers
+- Commisions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+</a>
+<br/>
