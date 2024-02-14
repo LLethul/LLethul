@@ -4,6 +4,6 @@
 
 <h2>&nbsp; Ask me about: </h2>
 - &nbsp; Roblox [LuaU, Exploits, Developing]<br/>
-- &nbsp; JS/TS, C#, Java, HTML/CSS, Lua/LuaU/GLua<br/>
+- &nbsp; JS/TS, C#/C++/C, Rust, Java, HTML/CSS, Lua/LuaU/GLua<br/>
 - &nbsp; Computers<br/>
 - &nbsp; Commisions<br/>
